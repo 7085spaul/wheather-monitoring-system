@@ -54,7 +54,7 @@ The objective of this application is to continuously retrieve weather data and c
 
 ###  1. Clone the Repository
 ```bash
-git clone https://github.com/AkshayReddyy16/Rule-Engine-with-AST.git
+git clone https://github.com/7085spaul/Rule-Engine-with-AST.git
 cd Rule-Engine-with-AST
 ```
 ###  2. Create a Virtual Environment
